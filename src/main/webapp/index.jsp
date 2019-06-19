@@ -12,6 +12,8 @@
                 <input type="text" name="Address"><br>
         Age:<br>
                 <input type="number" name="Age"><br>
+	Class:<br>
+                <input type="number" name="section"><br>
 </form> 
 
   </h2> All fields are optional </h2>
